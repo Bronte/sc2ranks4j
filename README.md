@@ -13,3 +13,5 @@ json-simple V1.1.1: http://code.google.com/p/json-simple/downloads/list
 
 See also C_GetDataMain
 
+<a href="http://flattr.com/thing/995643/Brontesc2ranks4j-on-GitHub" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
